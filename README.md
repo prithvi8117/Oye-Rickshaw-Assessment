@@ -21,7 +21,7 @@ I have uploaded 3 Java Class files (Source code files), 1 sql file and 1 text fi
 - todo_list.sql : This sql file is just a reference to work in PostgreSQL Database (Create table and insert into it)
 - todo_list_showResult.txt : This text file is just showing the todo_list table created and modified after some dry run of the application.
 
-The todo_list table is a having 5 attributes:
+The todo_list table consist of 5 attributes:
 - todo_id : This attribute auto-generates (a unique number) with every new entry in the table.
 - title : Title can be a string upto 150 letters, describing the task(todo).
 - due_date : Due Date is the last date, before which the task should be done.
