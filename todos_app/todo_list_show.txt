@@ -1,9 +1,0 @@
- todo_id title                                                           due_date   priority  state    
- ------- --------------------------------------------------------------- ---------- --------- -------- 
-       1 Email project report of project2 to client3                     2021-01-25 Medium    Not Done
-       2 Buy medicine of cold                                            2021-01-18 High      Done    
-       3 Email to ask for the requirements of the project4 from client5  2021-01-20 High      Not Done
-       4 Buy some vegetables and paneer for the upcoming weekend party   2021-01-27 Low       Not Done
-       5 Cross, solving 200+ questions of python programming in codechef 2021-01-30 Medium    Not Done
-       6 Submit assessment given by Oye! Rickshaw                        2021-01-18 Very High Done    
-
