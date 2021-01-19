@@ -158,7 +158,7 @@ public class dbOperations {
 			System.out.println("Searching the TODO by :\n1. Title\n2. Date\n3. Priority\n4. State");
 			ch = sc.nextInt();
 			sc.nextLine();
-			System.out.println("a"+ ch);
+			
 			switch(ch)
 			{
 				case 1  :	variable += "title";
